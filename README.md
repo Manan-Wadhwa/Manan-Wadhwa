@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Heyyo, I'm <a href=""color= "pink" align = "centre" target="_blank">Manan</a>
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/><a href="javascript:void(0);"><span style="color: white;">Heyyo I am</span> <span style="color: pink;">Manan</span></a>
 
 <!-- ![build: passing](https://img.shields.io/badge/build-passing-success) -->
 
