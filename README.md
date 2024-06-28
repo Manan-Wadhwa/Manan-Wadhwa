@@ -11,15 +11,15 @@
   
 ###  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" alter='me pixelated' width="70">&nbsp; About Me
 <a href="https://www.linkedin.com/in/manan-wadhwa-4623891b6/" target="_blank"><img align="centre" alt="Manan Wadhwa | LinkedIn" width="22px" src="Linkedin logo.svg"/> 
-<a href="https://x.com/SamakshTyagi_/" target="_blank"><img align="centre" alt="Samaksh Tyagi | X" width="22px" src="Twitter logo (1).svg"/> 
+<a href="[https://x.com/wadhwamanan1/]" target="_blank"><img align="centre" alt="Samaksh Tyagi | X" width="22px" src="Twitter logo (1).svg"/> 
 
-💡 &nbsp; I'm a student in Delhi, working on the production of multiple applications of AI.\
-🎓 &nbsp; I am an engineer at Bennett University (B.Tech, Computer Science and Engineering, Batch of 2027).\
-🌱 &nbsp; I'm on track for learning more about Artificial Intelligence (particularly NLP and Computer Vision).\
+💡 &nbsp; I'm a student in Delhi, working on lots of tech releated projects in different fields.\
+🎓 &nbsp; I am an engineer at MAIT, (B.Tech, Computer Science and Technology, Batch of 2027).\
+🌱 &nbsp; I'm on track for learning more about Artificial Intelligence, robotics and design.\
 💻 &nbsp; I'm currently performing research in the field of AI.\
 ✍️ &nbsp; In my free time, I make music, surf the net, and pursue writing as my hobbies.\
 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp; You can email me at samakshty@gmail.com. I'll try to respond as soon as possible!
+✉️ &nbsp; You can email me at wadhwamanan56@gmail.com. I'll try to respond as soon as possible!
 
 ---
 
@@ -68,7 +68,7 @@
 <!-- ![Samaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=samakshty&show_icons=true&theme=dark)
 USE THIS OR BOTTOM EXPANDED SYNTAX -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samakshty&theme=dark&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-Wadhwa&theme=dark&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source
